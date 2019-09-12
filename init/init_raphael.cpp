@@ -39,7 +39,7 @@ void load_raphaelglobal() {
     property_override("ro.build.product", "raphael");
     property_override("ro.product.device", "raphael");
     property_override("ro.build.description", "raphael-user 10 QKQ1.190716.003 V10.4.6.0.QFKCNXM release-keys");
-    property_override("ro.build.fingerprint", "Xiaomi/raphael/raphael:10/QKQ1.190716.003/V10.4.6.0.QFKCNXM/release-keys");
+    property_override("ro.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
     property_override("ro.control_privapp_permissions", "log");
 }
 
@@ -48,7 +48,7 @@ void load_raphaelin() {
     property_override("ro.build.product", "raphaelin");
     property_override("ro.product.device", "raphaelin");
     property_override("ro.build.description", "raphaelin-user 9 PKQ1.181121.001 V10.3.3.0.PFKINXM release-keys");
-    property_override("ro.build.fingerprint", "Xiaomi/raphaelin/raphaelin:9/PKQ1.181121.001/V10.3.3.0.PFKINXM:user/release-keys");
+    property_override("ro.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
     property_override("ro.control_privapp_permissions", "log");
 }
 
@@ -57,7 +57,7 @@ void load_raphael() {
     property_override("ro.build.product", "raphael");
     property_override("ro.product.device", "raphael");
     property_override("ro.build.description", "raphael-user 10 QKQ1.190716.003 V10.4.6.0.QFKCNXM release-keys");
-    property_override("ro.build.fingerprint", "Xiaomi/raphael/raphael:10/QKQ1.190716.003/V10.4.6.0.QFKCNXM/release-keys");
+    property_override("ro.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
     property_override("ro.control_privapp_permissions", "log");
 }
 

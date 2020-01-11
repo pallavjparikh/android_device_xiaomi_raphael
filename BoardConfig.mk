@@ -17,7 +17,7 @@
 
 BOARD_VENDOR := xiaomi
 
-DEVICE_PATH := device/xiaomi/cepheus
+DEVICE_PATH := device/xiaomi/raphael
 
 # Soong
 PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
@@ -53,7 +53,7 @@ BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)/prebuilt/dtbo.img
 TARGET_KERNEL_ARCH := arm64
 TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/kernel
 TARGET_KERNEL_CLANG_COMPILE := true
-TARGET_KERNEL_CONFIG := cepheus_defconfig
+TARGET_KERNEL_CONFIG := raphael_defconfig
 ifeq ($(TARGET_PREBUILT_KERNEL),)
   TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
   TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8150
@@ -176,4 +176,4 @@ BOARD_AVB_MAKE_VBMETA_IMAGE_ARGS += --flag 2
 DISABLE_EAP_PROXY := true
 
 # Inherit from the proprietary version
--include vendor/xiaomi/cepheus/BoardConfigVendor.mk
+-include vendor/xiaomi/raphael/BoardConfigVendor.mk

@@ -1,11 +1,11 @@
 Copyright (C) 2019 Paranoid Android
 
-Device configuration for Xiaomi Mi 9
+Device configuration for Xiaomi Redmi K20 Pro
 =========================================
 
-The Xiaomi Mi 9 (codenamed _"cepheus"_) is a high-end smartphone from Xiaomi.
+The Xiaomi Redmi K20 Pro (codenamed _"raphael"_) is a high-end smartphone from Xiaomi.
 
-It was announced in February 2019. Release date was February 2019.
+It was announced in June 2019. Release date was June 2019.
 
 ## Device specifications
 
@@ -17,10 +17,10 @@ GPU     | Adreno 640
 Memory  | 6/8 GB RAM
 Shipped Android Version | 9.0 with MIUI 10
 Storage | 64/128/256 GB
-Battery | Non-removable Li-Po 3300 mAh battery
+Battery | Non-removable Li-Po 4000 mAh battery
 Display | 1080 x 2340 pixels, 19.5:9 ratio, 6.39 inches, AMOLED HDR (~403 ppi density)
-Camera  | 48MP(Primary) 16MP(Ultra-wide) 12MP(Telephoto)
+Camera  | 48MP(Primary) 13MP(Ultra-wide) 8MP(Telephoto) 20MP(Selfie)
 
 ## Device picture
 
-![Xiaomi Mi 9](https://xiaomi-mi.com/uploads/CatalogueImage/mi9%20(3)_17412_1550674143.jpg "Xiaomi Mi 9 in black")
+![Xiaomi Redmi K20 Pro](https://xiaomi-mi.com/uploads/CatalogueImage/pvm_k20-pro%20(2)_17554_1559503899.jpg "Xiaomi Redmi K20 Pro in black")

@@ -1,4 +1,5 @@
 #
+# Copyright (C) 2019 RevengeOS 
 # Copyright (C) 2019 The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
@@ -24,7 +25,8 @@ TARGET_SCREEN_WIDTH := 1080
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay
+    $(LOCAL_PATH)/overlay \
+    $(LOCAL_PATH)/overlay-revenge
 
 # Properties
 -include $(LOCAL_PATH)/system_prop.mk

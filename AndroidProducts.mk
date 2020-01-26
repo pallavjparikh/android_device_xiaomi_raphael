@@ -6,8 +6,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_raphael.mk
+    $(LOCAL_DIR)/aosp_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    bootleg_raphael-userdebug \
-    bootleg_raphael-eng
+    aosp_raphael-userdebug \
+    aosp_raphael-eng
